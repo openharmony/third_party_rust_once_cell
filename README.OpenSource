@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "once_cell",
+    "License": "Apache License 2.0, MIT",
+    "License File": "LICENSE-APACHE|LICENSE-MIT",
+    "Version Number": "1.17.0",
+    "Owner": "fangting12@huawei.com",
+    "Upstream URL": "https://github.com/matklad/once_cell",
+    "Description": "A Rust library that provides a cell that can only be written to once."
+  }
+]
