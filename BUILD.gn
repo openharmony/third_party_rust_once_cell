@@ -29,4 +29,7 @@ ohos_cargo_crate("lib") {
         "race",
         "std",
     ]
+    module_output_extension = ".rlib"
+    part_name = "rust_once_cell"
+    subsystem_name = "thirdparty"
 }
